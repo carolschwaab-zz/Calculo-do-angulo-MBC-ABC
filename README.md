@@ -7,7 +7,7 @@
 
 O objetivo é encontrar o ângulo **MBC**, como mostrado na figura abaixo.
 
-![Triangulo](triangulo.png)
+
 
 ![Triangulo](https://s3-us-west-1.amazonaws.com/codenation-challenges/python-4/triangulo.png)
 
